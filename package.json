@@ -17,5 +17,15 @@
         "path": "./themes/white ocean theme-color-theme.json"
       }
     ]
-  }
+  },
+  "author": {
+    "name": "Franco Ursino",
+    "email": "francooursinoo@gmail.com",
+    "url": "https://github.com/FrancoUrsino"
+  },
+  "repository": {
+    "url": "https://github.com/FrancoUrsino/white-extension-fu",
+    "type": "git"
+  },
+  "publisher": "Code-theme_FU"
 }
